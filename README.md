@@ -1,6 +1,8 @@
 # weather_app
 
-A new Flutter project.
+An easy projects for Beginners to get started with Flutter.
+
+API  USED:"https://openweathermap.org/"
 
 ## Getting Started
 
